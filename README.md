@@ -6,6 +6,7 @@ The goal was to port PORC from python 2.7 to python 3 and beyond
 Versions:
 =========
 0.1 - Inital Release
+
 0.2 - Python 3 Inital Release
 
 Python Open Room Correction (PORC)
