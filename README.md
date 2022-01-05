@@ -1,3 +1,13 @@
+This is a Fork of Python Open Room Correction (PORC)
+====================================================
+The goal was to port PORC from python 2.7 to python 3 and beyond
+
+
+Versions:
+=========
+0.1 - Inital Release
+0.2 - Python 3 Inital Release
+
 Python Open Room Correction (PORC)
 ==================================
 
@@ -30,7 +40,7 @@ Mixed-Phase Compensation references:
 	
 Required Python dependencies:
 
-    1) Python 2.7
+    1) Python 3 (tested with 3.9.5)
     2) Scientific Python: SciPy, Numpy, & Matplotlib
 
 The easiest install method on Windows is simply to install the continuum.io Anaconda package.
